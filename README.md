@@ -1,4 +1,4 @@
-# MS Power BI
+# MS Power BI Projects
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
